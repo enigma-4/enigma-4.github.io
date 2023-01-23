@@ -10,17 +10,14 @@ header:
       url: "/portfolio/"
 excerpt: "Neelesh Raj is an engineer with a passion for learning and the open-source community. His area of expertise is medicine, with an emphasis on using innovation within the field of medicine to further advance society."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/H4A.png
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+    title: "Healthcare4All"
+    excerpt: "A website that finds the lowest cost for prescription medication and medical services for uninsured patients"
+  - image_path: assets/img/LetsBet.png
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "LetsBet"
+    excerpt: "A decentralized, peer-to-peer sportsbetting platform with crowdsourced odds."
 ---
 
 {% include feature_row %}
