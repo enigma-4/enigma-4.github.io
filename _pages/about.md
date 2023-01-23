@@ -1,31 +1,29 @@
 ---
 
-title: "About David Florian"
+title: "About Neelesh Raj"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Neelesh prides himself on his diverse skill set. His most prominent fields of expertise are business and medicine. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Chemical Engineering
+  * BS Chemistry
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Neelesh has a wide variety of experiences that would suit him ideally for a position at a startup within the medical space. Neelesh has experience with the following programming languages:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Python (Numpy, pandas, seaborn, matplotlib)
+* MATLAB
+* R (RStudio)
+* HTML/CSS
+* Quantum Computing (Qiskit)
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+The rise in popularity of the Vanderbilt Blockchain club (for which I serve on the executive board) was published on the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/14/zeppelin-rooftop-mixers-cryptocurrency-and-a-blockchain-law-how-crypto-came-to-vanderbilt/).
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
