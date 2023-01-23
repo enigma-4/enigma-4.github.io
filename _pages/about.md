@@ -26,4 +26,4 @@ Neelesh has a wide variety of experiences that would suit him ideally for a posi
 
 The rise in popularity of the Vanderbilt Blockchain club (for which I serve on the executive board) was published on the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/14/zeppelin-rooftop-mixers-cryptocurrency-and-a-blockchain-law-how-crypto-came-to-vanderbilt/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/Neel_Headshot.png" alt="Neelesh Raj" style="width:200px;"/>
