@@ -1,21 +1,21 @@
 ---
 title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+excerpt: "H4A is a website that finds the lowest cost for prescription medication and medical services for uninsured patients in the local Nashville Area"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/H4A.png
+  teaser: /assets/img/H4A.png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/H4A.png
+    image_path: assets/img/H4A.png
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/H4A.png
+    image_path: assets/img/H4A.png
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/H4A.png
+    image_path: assets/img/H4A.png
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+H4A provides two main features, medical provider and prescription medicine searching. Both follow the same general principles, but the medical provider search pulls from a spreadsheet of aggregated data while the prescription medicine search uses real-time web scraping. Once the user has chosen the procedure/drug they would like to search for (as well as specific information such as dosage for medications), the website displays options from the most popular clinics and pharmacies. Users can also click on each option to find the nearest location to them.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
